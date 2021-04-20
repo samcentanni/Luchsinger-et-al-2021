@@ -1,0 +1,40 @@
+Experiment: Restraint
+Subject: Subject1
+User: MrTDT
+Date: 05/17/2019
+Time: 8:29:51am
+
+ObjectID: RZn(1) - RZn Processor
+ StoreID: PC0/
+ StoreID: PtC1
+ StoreID: PC2/
+ StoreID: Note
+
+ObjectID: Cam(1) - Camera Device
+ StoreID: Cam1
+
+ObjectID: FibPho1 - Fiber Photometry
+ StoreID: 405A
+ StoreID: 470A
+ StoreID: 565A
+ StoreID: Fi1r
+ StoreID: Fi1i
+
+ObjectID: PulseGen1 - Pulse Generator
+ StoreID: Pu1/
+
+
+Flat Listing:
+StoreID  Gizmo/Hal
+405A     FibPho1
+470A     FibPho1
+565A     FibPho1
+Cam1     Cam(1)
+Fi1i     FibPho1
+Fi1r     FibPho1
+Note     RZn(1)
+PC0/     RZn(1)
+PC2/     RZn(1)
+PtC1     RZn(1)
+Pu1/     PulseGen1
+
