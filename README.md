@@ -52,7 +52,7 @@ These start times were then used in the open-source MATLAB code available from T
 
 
 Instructions for use:
-The code should be relatively easy to run on similarly organized DLC data. Simply point the path to a folder containing the similarly formatted DLC data.
+The code should be relatively easy to run on similarly organized DLC data. Simply point the path to a folder containing the similarly formatted DLC data. Make sure the functions folder and TDTSDK folder are added to the path in matlab.
 
 
 
