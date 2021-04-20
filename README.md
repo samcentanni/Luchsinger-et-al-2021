@@ -47,7 +47,7 @@ It will also produce a .png of the entire trace that shows the speed of the trac
 
 You can compare your results to the expected output that is in the provided "Expected_Output" folder. 
 
-These start times were then used in the open-source MatLab code available from TDT (https://www.tdt.com/support/matlab-sdk/). We have included a slightly modified version that works with the time-locked output output files from the pipeline above the the TDTFiles folder. The instructions on how to use each of these can be found in their respective MatLab files (e.g. Photometry_data_processingFreq.m, Winder_Pipeline_TimeLock_DLC.m) 
+These start times were then used in the open-source MATLAB code available from TDT (https://www.tdt.com/support/matlab-sdk/). We have included a slightly modified version that works with the time-locked output output files from the pipeline above the the TDTFiles folder. The instructions on how to use each of these can be found in their respective MATLAB files (e.g. Photometry_data_processingFreq.m, Winder_Pipeline_TimeLock_DLC.m) 
 
 
 
